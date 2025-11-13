@@ -1,6 +1,6 @@
 # 🍽️ SWIGGY Restaurants Data Analysis Dashboard
 
-![Dashboard Preview](./Screenshot%202025-11-12%20154611.png)
+
 
 ## 📊 Overview
 This Power BI dashboard provides a detailed analysis of Swiggy restaurant data, offering insights into restaurant distribution, average pricing, and delivery trends across different cities and areas.
@@ -52,5 +52,5 @@ This Power BI dashboard provides a detailed analysis of Swiggy restaurant data, 
 🔗 [LinkedIn] www.linkedin.com/in/
 ayush-lohat-463187381
 
-💼 [GitHub](https://github.com/yourusername)
+💼 [GitHub](https://github.com/ayush-data-17/Project--3-Swiggy-Restaurants-Analysis-Dashboard-Using-Power-BI-.git)
 
