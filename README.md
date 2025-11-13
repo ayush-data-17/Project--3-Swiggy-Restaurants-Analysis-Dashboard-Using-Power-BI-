@@ -52,5 +52,5 @@ This Power BI dashboard provides a detailed analysis of Swiggy restaurant data, 
 🔗 [LinkedIn] www.linkedin.com/in/
 ayush-lohat-463187381
 
-💼 [GitHub](https://github.com/ayush-data-17/Project--3-Swiggy-Restaurants-Analysis-Dashboard-Using-Power-BI-.git)
+💼 [GitHub] (https://github.com/ayush-data-17/Project--3-Swiggy-Restaurants-Analysis-Dashboard-Using-Power-BI-.git)
 
